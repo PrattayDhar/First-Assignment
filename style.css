@@ -218,3 +218,21 @@ input-form {
     background-color: #FF5959;
     border-radius: 0px 5px 5px 0px;
 }
+.data-information{
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 8%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border: #4f9da600 5px solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px 60px #ff595986;
+
+}
+.Data-Area{
+    display: flex;
+    justify-content: space-between;  
+}
