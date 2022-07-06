@@ -40,7 +40,6 @@ p {
 }
 
 .link-button {
-    text-align: center;
     text-decoration: none;
     background-color: #FF5959;
     font-weight: bold;
@@ -201,8 +200,8 @@ p {
     border-radius: 5px;
     padding-top: 90px;
     padding-bottom: 90px;
-    margin-right: 30%;
-    margin-left: 30%;
+    margin-right: 25%;
+    margin-left: 25%;
     margin-bottom: 8%;
 }
 
