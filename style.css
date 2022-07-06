@@ -89,7 +89,7 @@ h6{
 .cetagory{
     display: flex;
     justify-content:space-a;
-    padding-bottom: 2%;
+    padding-bottom: 4%;
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 4%;
@@ -127,18 +127,25 @@ h6{
     padding-bottom: 30px;
     padding-left:20px;
     padding-right: 20px;
-   margin-right: 5%;}
-   /* .section-four{
-    /* display: flex;
-    align-content: space-between;
-    justify-content: flex-start; */
-   }
+   margin-right: 5%;
+}
 
-.four-img-position{
-    /* width: 100%;
-    padding-left: 8%;
-    padding-right: 8%; */
+   .section-four{
     display: flex;
-    align-content: space-between;
-    justify-content: flex-start;
-   } */
+    padding-bottom: 5%;
+   }
+  
+   .section-four-position{
+    width: 50%;
+    padding-top: 5%;
+    padding-right: 2%;
+    padding-left: 8%;
+   }
+   .section-four-position > p{
+    color: #707070;
+   }
+   .section-four-position > h1{
+    color:black;
+    font-size: 40px;
+   }
+  
