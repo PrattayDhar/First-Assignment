@@ -1,5 +1,5 @@
 body {
-    margin: 0%;
+    margin: 0;
     font-family: 'Poppins', sans-serif;
 }
 h1{
@@ -19,8 +19,8 @@ p{
     background-image: url(donation13.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    height: 100%;
-    width: 100%;
+    height:auto;
+    width:auto;
     padding-bottom: 10%;
 }
 
@@ -68,8 +68,11 @@ p{
 .donation-amount {
     display: flex;
     justify-content: space-around;
-    margin-left: 30%;
-    margin-right: 30%;
+    width: auto;
+    padding-left: 32%;
+    padding-right: 32%;
+    /* margin-left: 30%;
+    margin-right: 30%; */
     padding-bottom: 3%;
 
 }
@@ -104,10 +107,12 @@ p{
 
 .cetagory {
     display: flex;
-    justify-content: space-a;
+    justify-content: space-between;
     padding-bottom: 4%;
-    margin-left: 10%;
-    margin-right: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    /* margin-left: 10%;
+    margin-right: 10%; */
     margin-top: 4%;
 
 }
@@ -156,7 +161,7 @@ p{
 }
 
 .section-four-position {
-    width: 50%;
+    width:auto;
     padding-top: 5%;
     padding-right: 2%;
     padding-left: 8%;
@@ -179,8 +184,8 @@ p{
     border-radius: 5px;
     padding-top: 90px;
     padding-bottom: 90px;
-    margin-right: 20%;
-    margin-left: 20%;
+    margin-right: 10%;
+    margin-left: 10%;
     margin-bottom: 8%;
 }
 
@@ -190,6 +195,7 @@ input-form {
 }
 
 .footer {
+    width: auto;
     background-color: black;
     border: 1px solid black;
     color: #FF5959;
@@ -220,9 +226,9 @@ input-form {
 }
 .data-information{
     text-align: center;
-    width:50%;
-    margin-left: 15%;
-    margin-right: 15%;
+    width:auto;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 8%;
     padding-right: 10%;
     padding-left: 10%;
