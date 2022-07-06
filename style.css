@@ -12,7 +12,6 @@ p {
 }
 
 .first-text-position {
-    width: 100%;
     text-align: center;
     padding-top: 5%;
 
@@ -22,7 +21,6 @@ p {
     background-image: url(donation13.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    width: 100%;
     padding-bottom: 10%;
 }
 
@@ -59,7 +57,7 @@ p {
 }
 
 .second-pera {
-    text-align: center;
+
     padding-left: 25%;
     padding-right: 25%;
     padding-bottom: 2%;
@@ -72,7 +70,6 @@ p {
 }
 
 .donation-amount {
-    text-align: center;
     display: flex;
     justify-content: space-between;
     padding-left: 30%;
@@ -163,7 +160,6 @@ p {
 }
 
 .section-four-position {
-    width: 50%;
     padding-top: 5%;
     padding-right: 2%;
     padding-left: 8%;
@@ -179,22 +175,19 @@ p {
 }
 
 #input-box {
-    position: 50%;
-    color: #FFF4D6;
+    color: #161615f5;
     border: none;
     outline: none;
     padding: 10px 100px 10px 10px;
     border-radius: 5px;
     background-color: #7070701a;
-
 }
 
 #button {
-    text-align: center;
     color: #FFEEEE;
     border: none;
     outline: none;
-    padding: 10px 30px 10px 5px;
+    padding: 10px 40px 10px 5px;
     margin: -8px;
     background-color: #FF5959;
     border-radius: 0px 5px 5px 0px;
@@ -215,7 +208,6 @@ p {
 
 
 .footer {
-    width: 100%;
     background-color: black;
     border: 1px solid black;
     color: #FF5959;
@@ -228,7 +220,6 @@ p {
 .data-information {
     box-sizing: border-box;
     text-align: center;
-    width: 100%;
     padding-left: 15%;
     padding-right: 15%;
 
